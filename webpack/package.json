@@ -1,0 +1,17 @@
+{
+  "name": "handwriting",
+  "version": "1.0.0",
+  "description": "handwriting webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/parser": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/traverse": "^7.10.3"
+  }
+}
